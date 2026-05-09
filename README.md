@@ -32,12 +32,3 @@
 | **Active Experts** | Top-2 + Shared | **Top-1** (no Shared expert) |
 | **Gate Function** | Sigmoid / Linear | Softmax |
 | **Number of Experts**| Many small ones | 23 (Separate for encoder & decoder) |
-
-## 🚀 Quick Start
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/moll.git
-cd moll
-pip install -r requirements.txt
